@@ -1,0 +1,60 @@
+[
+    {
+        "id": "1",
+        "name": "三国演义",
+        "author": "罗贯中",
+        "category": "文学",
+        "description": "一个杀伐纷争的年代",
+        "_locals": {}
+    },
+    {
+        "id": "2",
+        "name": "水浒传",
+        "author": "施耐庵",
+        "category": "文学",
+        "description": "关于108条好汉的故事"
+    },
+    {
+        "id": "3",
+        "name": "西游记",
+        "author": "罗贯中",
+        "category": "文学",
+        "description": "孙悟空与唐僧取经的故事"
+    },
+    {
+        "id": "4",
+        "name": "红楼梦",
+        "author": "曹雪芹",
+        "category": "文学",
+        "description": "一个封建王朝的缩影"
+    },
+    {
+        "name": "明朝那些事儿",
+        "author": "当年明月",
+        "category": "文学",
+        "description": "明朝历史",
+        "id": "5",
+        "_locals": {}
+    },
+    {
+        "name": "浪潮之巅",
+        "author": "吴军",
+        "category": "计算机",
+        "description": "IT巨头的兴衰史",
+        "id": 6
+    },
+    {
+        "name": "活着",
+        "author": "余华",
+        "category": "文学",
+        "description": "文化大革命",
+        "id": 7
+    },
+    {
+        "id": 8,
+        "name": "明朝那些事儿",
+        "author": "当年明月",
+        "category": "文学",
+        "description": "明朝历史"
+    }
+]
