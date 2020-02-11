@@ -12,7 +12,7 @@ app.use(express.static('public'));
 //挂载参数处理中间件(针对post)
 app.use(bodyParser.urlencoded({extended: false}));
 
-//启动服务器功能
+//启动服务器功能 
 //配置路由
 app.post('/check',(req,res) => {
   let info = req.body;
